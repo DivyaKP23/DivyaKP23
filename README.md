@@ -9,12 +9,12 @@
 
 ## 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=fff)
 ![Azure](https://img.shields.io/badge/Azure-007FFF?logo=microsoftazure&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
 
 ---
 
