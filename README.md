@@ -1,3 +1,4 @@
+![GitHub Banner](./your-banner-filename.png)
 # 👋 Hi, I'm Divya Bhudia
 
 🎯 **Aspiring Data Analyst | Excel, Power BI, Tableau, SQL, Python | Digital Data Skills Bootcamp Graduate**
