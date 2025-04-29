@@ -1,6 +1,4 @@
 ![GitHub Banner](./DivyaBanner.jpg)
-# 👋 Hi, I'm Divya Bhudia
-
 🎯 **Aspiring Data Analyst | Excel, Power BI, Tableau, SQL, Python | Digital Data Skills Bootcamp Graduate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/divya-b-0b281850)
