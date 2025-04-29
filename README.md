@@ -65,7 +65,7 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
+* 🧠  I'm learning Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
 ### Skills
