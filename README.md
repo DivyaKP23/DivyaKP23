@@ -12,7 +12,7 @@ I’m currently exploring opportunities where I can apply my skills in analysis,
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)
@@ -23,7 +23,7 @@ I’m currently exploring opportunities where I can apply my skills in analysis,
 
 ---
 
-## 📌 Portfolio Highlights
+## Portfolio Highlights
 
 ### 📊 [Sales Dashboard – Power BI](#)
 Track KPIs, sales team metrics, and regional insights with filters and drilldowns.
