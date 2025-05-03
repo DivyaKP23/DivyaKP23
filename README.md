@@ -1,5 +1,9 @@
 ![GitHub Banner](./DivyaBanner.jpg)
 🎯 **Aspiring Data Analyst | Excel, Power BI, Tableau, SQL, Python | Digital Data Skills Bootcamp Graduate**
+**Hello, I’m Divya. I’m driven by a love of learning and a desire to make life easier for others—whether that means simplifying data, improving processes, or helping people understand things more clearly.
+I’ve always been someone who finds efficient ways to do things, turns complexity into clarity, and motivates others to believe in what’s possible. With experience in service delivery, data analysis, and community support, I bring a thoughtful mix of structure, empathy, and initiative to every project I take on.
+I’m currently exploring opportunities where I can apply my skills in analysis, communication, and problem-solving to contribute to meaningful work—particularly in education, sustainability, or digital transformation.**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/divya-b-0b281850)
 [![Google Site](https://img.shields.io/badge/Portfolio-Google%20Site-orange)](https://sites.google.com/view/divyab25/home)
