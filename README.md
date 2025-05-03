@@ -6,7 +6,7 @@ I’ve always been someone who finds efficient ways to do things, turns complexi
 I’m currently exploring opportunities where I can apply my skills in analysis, communication, and problem-solving to contribute to meaningful work—particularly in education, sustainability, or digital transformation.**
 
 
-[![LinkedIn(https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)(https://www.linkedin.com/in/divya-b-0b281850)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/divya-b-0b281850)
 [![Google Site](https://img.shields.io/badge/Portfolio-Google%20Site-orange)](https://sites.google.com/view/divyab25/home)
 [![GitHub Followers](https://img.shields.io/github/followers/divyab25?label=Follow&style=social)](https://github.com/divyab25)
 
