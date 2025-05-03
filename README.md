@@ -1,5 +1,5 @@
 ![GitHub Banner](./DivyaBanner.jpg)
-🎯 **Aspiring Data Analyst | Excel, Power BI, Tableau, SQL, Python | Digital Data Skills Bootcamp Graduate**
+**Aspiring Data Analyst | Excel, Power BI, Tableau, SQL, Python | Digital Data Skills Bootcamp Graduate**
 
 **Hello, I’m Divya. I’m driven by a love of learning and a desire to make life easier for others—whether that means simplifying data, improving processes, or helping people understand things more clearly.
 I’ve always been someone who finds efficient ways to do things, turns complexity into clarity, and motivates others to believe in what’s possible. With experience in service delivery, data analysis, and community support, I bring a thoughtful mix of structure, empathy, and initiative to every project I take on.
